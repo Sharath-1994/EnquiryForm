@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 @Transactional
-public class LoginDAO {
+public class RegisterDAO {
 
 	@Autowired
 	private SessionFactory session;

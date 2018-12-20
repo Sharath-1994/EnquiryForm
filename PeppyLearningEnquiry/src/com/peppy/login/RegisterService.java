@@ -4,10 +4,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
-public class ServiceLogin {
+public class RegisterService {
 
 	@Autowired
-	private LoginDAO data;
+	private RegisterDAO data;
 
 	public boolean saveToDB(NewRegistration reg) {
 
