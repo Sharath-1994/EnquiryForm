@@ -18,5 +18,6 @@ public class RegisterDAO {
 		session.getCurrentSession().save(registraion);
 		return true;
 	}
+	
 
 }

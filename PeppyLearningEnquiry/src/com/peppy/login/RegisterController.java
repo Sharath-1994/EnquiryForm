@@ -40,7 +40,7 @@ public class RegisterController {
 		registration.setPassword(password);
 		registration.setAddress(address);
 		service.saveToDB(registration);
-		return "works";
+		return "RegistrationSucessfull";
 
 	}
 
