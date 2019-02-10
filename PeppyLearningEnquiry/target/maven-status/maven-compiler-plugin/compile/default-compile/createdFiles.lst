@@ -1,0 +1,10 @@
+com\peppy\login\RegisterController.class
+com\peppy\login\registration\LoginDAO.class
+com\peppy\login\RegisterDAO.class
+com\peppy\config\ApplicationConfig.class
+com\peppy\login\NewRegistration.class
+com\peppy\config\DatabaseConfig.class
+com\peppy\config\ViewConfig.class
+com\peppy\login\RegisterService.class
+com\peppy\login\registration\LoginController.class
+com\peppy\login\registration\LoginService.class
